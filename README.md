@@ -17,7 +17,10 @@ This is a simple car price prediction Flask app which is trained on the dataset 
 1.) The dataset is trained using Random Forest Model.
 
 2.) Building and hosting the Flask App on Heroku.
+
+
     * The user must input several parameters displayed on the webpage
+    
     * The final output will be the value of the used car based on the input parameters.
 		
 ## Package Installation

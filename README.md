@@ -1,7 +1,9 @@
 ## Table of Content
   * [Demo](#Demo)
   * [Brief Summary](#Brief-Summary)
+  * [Aim of the Project](#Aim-of-the-Project)
   * [Package Installation](#Package-Installation)
+  * [Directory-Heirarchy](#Directory-Hierarchy)
 
 
 ## Demo
@@ -10,7 +12,28 @@ https://car-prediction0.herokuapp.com/
 
 ## Brief Summary
 
-This is a simple car price prediction Flask app which is trained on the dataset available on Kaggle (Car Dekho website) which takes in various input parameters and the resultant output gives the final Selling Price of the Used Car. 
+This is a simple car price prediction Flask app which is trained on the dataset available on Kaggle  which takes in the following input parameters like 
+
+     i.) Year                                                    (The year when the car was purchased)
+   
+    ii.) What is the Showroom Price?(In lakhs)                   (The Price at which the car was bought at the time of purchase)
+  
+    iii.) How Many Kilometers Driven?                             (The distance travelled by the car)
+   
+    iv.) How much owners previously had the car(0 or 1 or 3) ?   ( Number of owners who had owned the car previously)
+   
+     v.) What Is the Fuel type?                                  (Fuel type of the car, Petrol or Diesel)
+     
+    vi.) Are you A Dealer or Individual?                         (Status of the seller)
+    
+    vii.) Transmission type                                       (This has two options which includes manual or automatic
+
+
+   Considering the above parameters, the final selling price of the car is shown as result .
+
+
+## Aim of the Project
+This project was done as part of the Kaggle Competition for Vechicle Dataset(Used cars data) which aims to find out the final selling price of the used cars based on various parameters
 
 ## Project Technical Details
 
@@ -28,6 +51,25 @@ This is a simple car price prediction Flask app which is trained on the dataset 
 The Code is written in Python (Version 3.6).The link for python installation is given [here](https://www.python.org/downloads/).If the python available in the system is of a lower version, then it can be upgraded using the pip package to ensure that one has the latest version of pip.To install the requried packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository: 
 
 pip install -r requirements.txt
+
+## Directory Heirarchy 
+
+1.) app.py
+
+2.)template
+   
+       i.) index.html
+   
+3.)requirements.txt
+
+4.)runtime.txt
+
+5.)LICENSE
+
+6.) Procfile
+
+7.) README.md
+
 
 
 

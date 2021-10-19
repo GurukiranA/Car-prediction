@@ -84,9 +84,11 @@ pip install -r requirements.txt
 <img target="_blank" src="https://user-images.githubusercontent.com/34685034/137956772-15f5a5df-c423-4662-a8fc-6bdca1bb7af7.jpeg" width=400> 
 
 
-##Credits
+## Credits
 
-All the images have been downloaded from Google.Source: Google Images. 
+All the images have been downloaded from Google.
+
+Source: Google Images. 
 
 
 

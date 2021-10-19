@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 All the images have been downloaded from Google.
 
-Source: Google Images. 
+Source:Google Images. 
 
 
 

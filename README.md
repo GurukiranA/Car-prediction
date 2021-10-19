@@ -4,6 +4,8 @@
   * [Aim of the Project](#Aim-of-the-Project)
   * [Package Installation](#Package-Installation)
   * [Directory-Heirarchy](#Directory-Hierarchy)
+  * [Technologies-Used](#Technologies-Used)
+  * [Credits](#Credits)
 
 
 ## Demo
@@ -80,6 +82,11 @@ pip install -r requirements.txt
 <img target="_blank" src="https://user-images.githubusercontent.com/34685034/137956359-36163fc8-3608-422f-9f08-af0b04ff9e59.png" width=250> 
 
 <img target="_blank" src="https://user-images.githubusercontent.com/34685034/137956772-15f5a5df-c423-4662-a8fc-6bdca1bb7af7.jpeg" width=400> 
+
+
+##Credits
+
+All the images have been downloaded from Google.Source: Google Images. 
 
 
 

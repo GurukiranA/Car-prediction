@@ -70,6 +70,18 @@ pip install -r requirements.txt
 
 7.) README.md
 
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+<img target="_blank" src="https://user-images.githubusercontent.com/34685034/137955262-a06f3f9e-665c-4e5f-8586-fab3ad5bbf78.png" width=350>            <img target="_blank" src="https://user-images.githubusercontent.com/34685034/137956095-0599307e-7f62-407f-a059-8c6adad9f617.png" width=350>      
+
+
+<img target="_blank" src="https://user-images.githubusercontent.com/34685034/137956359-36163fc8-3608-422f-9f08-af0b04ff9e59.png" width=250> 
+
+<img target="_blank" src="https://user-images.githubusercontent.com/34685034/137956772-15f5a5df-c423-4662-a8fc-6bdca1bb7af7.jpeg" width=400> 
+
+
 
 
 
